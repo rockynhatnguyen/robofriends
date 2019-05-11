@@ -1,0 +1,26 @@
+:root {
+  --blurple: #7289DA;
+  --light-text: #ffffff;
+  --dark-but-not-black: #2C2F33;
+  --not-quite-black: #23272A;
+}
+
+@font-face {
+font-family: 'Proxima Nova Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Proxima Nova Regular'), url('ProximaNova-Regular.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Proxima Nova Light';
+  text-transform: uppercase;
+}
+
+.title {
+  color: var(--blurple);
+}
+
+.card {
+  background: var(--dark-but-not-black);
+}
