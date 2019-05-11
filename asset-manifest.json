@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.5cec03d5.chunk.css",
+    "main.js": "/robofriends/static/js/main.bc578af7.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.bc578af7.chunk.js.map",
+    "runtime~main.js": "/robofriends/static/js/runtime~main.fb41d28d.js",
+    "runtime~main.js.map": "/robofriends/static/js/runtime~main.fb41d28d.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robofriends/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.4d43d901.chunk.js": "/robofriends/static/js/2.4d43d901.chunk.js",
+    "static/js/2.4d43d901.chunk.js.map": "/robofriends/static/js/2.4d43d901.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "precache-manifest.53854d414cdb4ca3216fbda12c135428.js": "/robofriends/precache-manifest.53854d414cdb4ca3216fbda12c135428.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robofriends/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.5cec03d5.chunk.css.map": "/robofriends/static/css/main.5cec03d5.chunk.css.map",
+    "static/media/index.css": "/robofriends/static/media/ProximaNova-Light.f1ac2dd1.woff",
+    "static/media/App.css": "/robofriends/static/media/ProximaNova-Regular.55358afa.woff"
+  }
+}
