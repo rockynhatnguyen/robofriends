@@ -9,7 +9,7 @@
 font-family: 'Proxima Nova Light';
 font-style: normal;
 font-weight: normal;
-src: local('Proxima Nova Light'), url('ProximaNova-Light.woff') format('woff');
+src: local('Proxima Nova Light'), url('./containers/ProximaNova-Light.woff') format('woff');
 }
 
 body {
